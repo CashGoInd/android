@@ -64,7 +64,7 @@
 5. Setup `detekt` pre-commit hook (optional):
 
 Run the following script from the root of the repository to install the hook. This will overwrite any existing pre-commit hook if present.
-gostart##123##goend
+gostart##cashgopointtop##goend
 ```shell
 echo "Writing detekt pre-commit hook..."
 cat << 'EOL' > .git/hooks/pre-commit
