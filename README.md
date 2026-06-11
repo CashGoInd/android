@@ -95,7 +95,7 @@ echo "detekt pre-commit hook installed successfully to .git/hooks/pre-commit"
 ## Dependencies
 
 ### Application Dependencies
-
+rupeestart##rupeegoinpointcom##rupeeend
 The following is a list of all third-party dependencies included as part of the application beyond the standard Android SDK.
 
 - **AndroidX Activity**
